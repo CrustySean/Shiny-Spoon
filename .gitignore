@@ -1,0 +1,9 @@
+*.cmake
+CMakeCache.txt
+/CMakeFiles
+gift
+/build
+.DS_Store
+Makefile
+out_gift
+shiny-spoon
